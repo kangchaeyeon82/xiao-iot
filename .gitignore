@@ -4,3 +4,5 @@ __pycache__/
 .venv/
 .vercel/
 firmware/**/secrets.h
+device/**/secrets.h
+device/**/build/
